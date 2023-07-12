@@ -17,7 +17,7 @@
 
 <br>
 
-# 4D Science - beyond static research communications
+# 4D Science - Beyond Static Research Communications
 
 soon. stay tuned!
 
