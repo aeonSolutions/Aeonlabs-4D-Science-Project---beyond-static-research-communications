@@ -13,7 +13,7 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
 
- [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) >> 4D Science - beyond static research communications
+ [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research)  >>  4D Science - beyond static research communications
 
 <br>
 
