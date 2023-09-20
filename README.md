@@ -22,7 +22,9 @@
 
 # 4D Science - Beyond Static Research Communications
 
-soon. stay tuned!
+**Idea**
+
+The main idea foe this project is to develop a work enviroment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular  time dependent experimental data that requires motion graphics and animated chart plots. 
 
 <br />
 <br />
