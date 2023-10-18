@@ -27,7 +27,15 @@
 The main idea foe this project is to develop a work environment using Unreal Engine 5.x where is possible to work experimental data beyond a 2D spread sheet , in particular  time dependent experimental data that requires motion graphics and animated chart plots. 
 
 <br />
-<br />
+
+## Related Unreal Engine Projects
+  ### [Radar Chart Widget](https://github.com/pDunkl/RadarChartWidgetDocumentation)
+  <p align="center">
+     <img height="200" src="https://github.com/pDunkl/RadarChartWidgetDocumentation/raw/master/Resources/featured.png">
+  </p>
+ 
+<br>
+<br>
 
 ## Author
 
